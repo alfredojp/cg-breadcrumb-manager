@@ -1,0 +1,88 @@
+.form-table {
+  border: 1px solid #c3c4c7;
+  box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+  width: 98%;
+}
+
+.form-table tr:first-child {
+  border-bottom: 1px solid #dcdcde;
+  padding: 0 5px;
+  background: #f6f7f7;
+  width: 100%;
+}
+
+.form-table-body {
+  border-top: none;
+  margin-top: 0;
+}
+
+.form-table-body tr {
+  border: none !important;
+  background: none !important;
+}
+
+.form-table-body .section-head {
+  font-weight: bold;
+}
+
+.column-post-type {
+  width: 15%;
+}
+
+.column-taxonomy {
+  width: 20%;
+}
+
+.column-term {
+  width: 20%;
+}
+
+.column-menu-section {
+  width: 45%;
+}
+
+.content-section-row td {
+  padding-top: 0 !important;
+}
+
+.inner-table {
+  margin-top: -35px;
+  width: 100%;
+}
+
+.inner-table tr {
+  padding: 0 !important;
+}
+
+.menu-section {
+  margin-left: -10px !important;
+  clear: both;
+}
+
+.menu-section-items {
+  float: left;
+  margin-right: 20px;
+}
+
+.current-menu-position {
+  margin-left: -10px;
+  margin-top: 10px;
+}
+
+.warning-message {
+  padding: 10px;
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  width: 98%;
+}
+
+#breadcrumb_manager_cancel_edit_btn {
+  margin-left: 20px;
+}
+
+.breadcrumb_manager_content_dropdowns {
+  width: 100%;
+}
