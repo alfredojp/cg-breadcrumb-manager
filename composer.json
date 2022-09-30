@@ -1,0 +1,15 @@
+{
+    "name": "capgemini/cg-breadcrumb-manager",
+    "description": "CG Breadcrmb Manager",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "authors": [{
+        "name": "Capgemini",
+        "email": "alfredo-j.prince@capgemini.com"
+    }]
+}
+
